@@ -37,8 +37,8 @@ inquirer.prompt([
     }
     
     shape.setColor (response.logoColor) 
-    const template =`<svg height ="500" width="500"> ${shape.render()}
-    <text x="0" y="15" fill ="${response.fontColor}">${response.logoText}</text></svg>` 
+    const template =`<svg height ="500" width="400"> ${shape.render()}
+    <text x="80" y="75" font-size "200" fill ="${response.fontColor}">${response.logoText}</text></svg>` 
 
     
         
