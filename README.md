@@ -27,14 +27,13 @@ User enters node index.js in command line to start prompts. User will select wha
 
 ## Screenshot: <img width="818" alt="SVG" src="https://github.com/elainefmartinez/svglogomaker/assets/85318206/c4be01f0-b65c-49be-ab4d-8092e8d91ad6">
 
-- Video: https://drive.google.com/file/d/1brE_FpbQJahWOH37x71TwZiEakkT1U3f/view
+- Video Demo: https://drive.google.com/file/d/1brE_FpbQJahWOH37x71TwZiEakkT1U3f/view
 
 
 ## Contributing:
 - Stack Overflow
 - MDN docs
 - Previous class activities
-- Video Demo: 
 
 
 ---
