@@ -16,7 +16,7 @@ Command-line application that uses user input to generate a logo and saves it as
 
 
 ## Installation:
-Node js, Inquirer, MySQL
+Node js, Inquirer
 
 ---
 
@@ -25,8 +25,8 @@ User enters node index.js in command line to start prompts. User will select wha
 
 ---
 
-## Screenshot:
-
+## Screenshot: 
+- Video: https://drive.google.com/file/d/1brE_FpbQJahWOH37x71TwZiEakkT1U3f/view
 
 
 ## Contributing:
